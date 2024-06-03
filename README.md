@@ -1,4 +1,4 @@
-# QueryPerformancCounter
+# Query Performance Counter and Chrono Library
 Implemented Query Performace Counter which measures the speed of Assembly language and Low-Level Language for Data structures and Algorithms
 to learn more click here [https://learn.microsoft.com/en-us/windows/win32/api/profileapi/nf-profileapi-queryperformancecounter]
 
